@@ -1,0 +1,51 @@
+.header-logo h1{
+    color: rgb(59, 56, 247);
+    background-color: rgb(114, 253, 253);
+    font-size: 40px;
+}
+
+span{
+    color:cornflowerblue;
+}
+
+.header ul{
+    text-align: center;
+}
+
+.header li{
+    list-style: none;
+    display: table-cell;
+    width: 1%;
+    border: 1px solid #0000f0;
+    background-color: deepskyblue;
+}
+
+.main{
+    height: 650px;
+    background-color: aliceblue;
+}
+
+.footer{
+    background-color: #222275;
+    height: 150px;
+    color: #ffffff;
+}
+
+.footer-list{
+    font-size: 20px;
+}
+
+.footer-list a{
+    float: left;
+    color: #ffffff;
+    padding: 0px 30px;
+}
+
+.main ul{
+    float: left;
+    padding: 20px 130px;
+}
+
+.main li{
+    padding: 20px 0px;
+}
